@@ -6,11 +6,11 @@ applyTo: '**'
 Les programmes sont écrits pour des exercices ou des projets éducatifs.
 
 Je suis un(e) élève de l'Ontario, Canada en :
-- [ ] 11ème année
+- [x] 11ème année
 - [ ] 12ème année
 
 Notre classe utilise le langage suivant :
-- [ ] Python - j'apprends la programmation
+- [x] Python - j'apprends la programmation
 - [ ] Java - j'apprends le génie informatique
 
 ## Structure du projet
